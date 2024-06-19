@@ -1,0 +1,1 @@
+this code list to test ESP822 & ESP32 and MQ2&DHT22&FLAMESENSOR&RELAY&BUZZER
